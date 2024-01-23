@@ -1,0 +1,14 @@
+D:\workspace\HelloWorldWithVSCode\bin\Debug\net8.0\HelloWorldWithVSCode.exe
+D:\workspace\HelloWorldWithVSCode\bin\Debug\net8.0\HelloWorldWithVSCode.deps.json
+D:\workspace\HelloWorldWithVSCode\bin\Debug\net8.0\HelloWorldWithVSCode.runtimeconfig.json
+D:\workspace\HelloWorldWithVSCode\bin\Debug\net8.0\HelloWorldWithVSCode.dll
+D:\workspace\HelloWorldWithVSCode\bin\Debug\net8.0\HelloWorldWithVSCode.pdb
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.AssemblyInfoInputs.cache
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.AssemblyInfo.cs
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.csproj.CoreCompileInputs.cache
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.dll
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\refint\HelloWorldWithVSCode.dll
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.pdb
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\HelloWorldWithVSCode.genruntimeconfig.cache
+D:\workspace\HelloWorldWithVSCode\obj\Debug\net8.0\ref\HelloWorldWithVSCode.dll
